@@ -1,3 +1,15 @@
 [
-  "terminal_color": "https://www.blank.com"
+  {
+    "name": "terminal-color",
+    "version": "1.0.0",
+    "description": "Adds a bit of color to the terminal",
+    "download_url": "https://www.blank.com",
+    "dependencies": ["test"]
+  },
+  {
+    "name": "test",
+    "version": "1.0.0",
+    "description": "Test package",
+    "download_url": "https://www.blank.com",
+  }
 ]

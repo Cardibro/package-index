@@ -3,20 +3,11 @@
     "name": "terminal-color",
     "version": "1.0.0",
     "description": "Adds a bit of color to the terminal",
-    "download_url": "https://www.blank.com",
-    "dependencies": ["test"]
+
+    "owner"="cardibro",
+    "repo"="terminal-color",
+    "folder_path"="",
+    "branch"="main",
+    "destination"="./installed/terminal-color"
   },
-  {
-    "name": "test",
-    "version": "1.0.0",
-    "description": "Test package",
-    "download_url": "https://www.blank.com",
-    "dependencies": ["test2"]
-  },
-  {
-    "name": "test2",
-    "version": "1.0.0",
-    "description": "Test package",
-    "download_url": "https://www.blank.com"
-  }
 ]

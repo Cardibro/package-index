@@ -3,10 +3,10 @@
     "name": "terminal-color",
     "version": "1.0.0",
     "description": "Adds a bit of color to the terminal",
-    "owner"="cardibro",
-    "repo"="terminal-color",
-    "folder_path"="",
-    "branch"="main",
-    "destination"="./installed/terminal-color"
+    "owner":"cardibro",
+    "repo":"terminal-color",
+    "folder_path":"",
+    "branch":"main",
+    "destination":"./installed/terminal-color"
   }
 ]

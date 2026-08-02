@@ -8,5 +8,15 @@
     "folder_path": "",
     "branch": "main",
     "destination": "./installed/terminal-color"
+  },
+  {
+    "name": "sponge",
+    "version": "1.0.0",
+    "description": "Bob",
+    "owner": "Cardibro",
+    "repo": "sponge-terminal",
+    "folder_path": "",
+    "branch": "main",
+    "destination": "./installed/sponge"
   }
 ]
